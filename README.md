@@ -7,7 +7,7 @@
 </head>
 <body>
      <header class="cabecalho">
-         <h1>COMEÇANDO A PROGRAMAR</h1>
+         <h1>COMEÇANDO PROGRAMAR DO ZERO</h1>
      </header>
      <main class="personagem-slider">
           <button class="btn-seta btn-voltar" id="btn-voltar>
@@ -15,7 +15,7 @@
           </button>
           <ul class="lista-personagens">
                <li class="cartao selecionado fundo-1></li>
-          </ul>
+         </ul class>
           
      </main>
 </body>
