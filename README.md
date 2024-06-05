@@ -7,6 +7,7 @@
         <h1>COMEÇANDO DO ZERO</h1>
 </head>
 <body>
-     
+     <header class="cabecalho"></header>
+     <main class="personagem-slider"></main>
 </body>
 </html>
